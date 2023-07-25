@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DevFilter/static/css/main.321a0724.css",
+    "main.js": "/DevFilter/static/js/main.3ff22807.js",
+    "index.html": "/DevFilter/index.html",
+    "main.321a0724.css.map": "/DevFilter/static/css/main.321a0724.css.map",
+    "main.3ff22807.js.map": "/DevFilter/static/js/main.3ff22807.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.321a0724.css",
+    "static/js/main.3ff22807.js"
+  ]
+}
